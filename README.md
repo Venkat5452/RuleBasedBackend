@@ -1,8 +1,8 @@
-Application 1: Rule Engine with AST:
-This application is developed using the MERN stack:
-•	Frontend: React.js
-•	Backend: Node.js, Express.js, and MongoDB
-Steps to Develop the Application
+# Application 1: Rule Engine with AST:
+# This application is developed using the MERN stack:
+1. Frontend: React.js
+2. Backend: Node.js, Express.js, and MongoDB
+# Steps to Develop the Application
 Frontend:
 1.	Initialize the React app: npx create-react-app frontend
 2.	Install the necessary dependencies: npm install react react-bootstrap bootstrap axios
@@ -19,11 +19,11 @@ o	/create_rule for creating rules
 o	/evaluate_rule for evaluating rules with data
 o	/combine_rules for combining multiple rules
 7.	Run the server using Nodemon: nodemon server.js
-Deployment:
-•	Backend is deployed on Render.
-•	Frontend is deployed on Netlify.
-Links:
-•	Deployed Application: https://myrulebased.netlify.app/
-•	Frontend Code: https://github.com/Venkat5452/RulebasedFrontend
-•	Backend Code: https://github.com/Venkat5452/RuleBasedBackend
+# Deployment:
+  Backend is deployed on Render.
+  Frontend is deployed on Netlify.
+# Links:
+1. Deployed Application: https://myrulebased.netlify.app/
+2. Frontend Code: https://github.com/Venkat5452/RulebasedFrontend
+3. Backend Code: https://github.com/Venkat5452/RuleBasedBackend
 
